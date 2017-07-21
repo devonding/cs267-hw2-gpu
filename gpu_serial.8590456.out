@@ -1,8 +1,0 @@
-TACC: Starting up job 8590456
-TACC: Setting up parallel environment for MVAPICH2+mpispawn.
-TACC: Starting parallel tasks...
-CPU-GPU copy time = 0.000111 seconds
-n = 2000, simulation time = 1.25139 seconds
- 
-TACC: Shutdown complete. Exiting.
-n = 2000, absmin = 0.810446, absavg = 0.955893
